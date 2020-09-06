@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deployment Link (https://covid19---tracker.herokuapp.com/)
 
 ## Available Scripts
 
